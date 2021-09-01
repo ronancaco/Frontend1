@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    height: 1000px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .box {
+    width: 250px;
+    height: 200px;
+    padding: 60px;
+    border: blue 5px solid;
+    background-color: yellow;
+    font-size: 40px;
+    text-align: center;
+  }
+  
+  .relative {
+    position: relative;
+    top: -200px;
+    left: 600px;
+
+    
